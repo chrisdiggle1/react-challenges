@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import css from "./css/NavBarSimple.module.css";
+import React, { Component } from "react"
+import css from "./css/NavBarSimple.module.css"
 
-class NavBarSimple extends Component {
+class NavBarSimple extends React.Component {
 
     constructor(props) {
         super(props);
